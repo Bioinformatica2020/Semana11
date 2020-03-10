@@ -36,6 +36,8 @@ REQUERIMIENTOS (WINDOWS)
 ```
     $ ssh -p 3030 -l curso■ 148.206.50.100
     
+    $ curso.2020$%
+    
     $ conda activate genome
 ```
 
