@@ -185,4 +185,11 @@ grep ">" assem29/contigs.fa | wc -l
     $ samtools tview bowtie2.sorted.bam assem29/contigs.fa
 ```
 * ### Descargar los archivos `bowtie2.sorted.bam.gz` y `bowtie2.sorted.bam.bai.gz` a mi ordenador
+
+```
+    $ scp -P 3030 curso■@148.206.50.100:/home/curso■/bowtie2.sorted.bam .
+
+    $ scp -P 3030 curso■@148.206.50.100:/home/curso■/bowtie2.sorted.bam.bai .
+```
+
 * ### Visualizar estos archivos con el programa [IGV](https://software.broadinstitute.org/software/igv/AlignmentData)
