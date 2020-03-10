@@ -34,7 +34,7 @@ REQUERIMIENTOS (WINDOWS)
 * ### Activar el entorno con los programas para el ensamblaje
 
 ```
-    $ ssh -p 3030 -l curso1 148.206.50.100
+    $ ssh -p 3030 -l curso■ 148.206.50.100
     
     $ conda activate genome
 ```
