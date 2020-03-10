@@ -6,6 +6,9 @@
 ## ENSAMBLE DE GENOMA BACTERIANO
 ---
 
+### [Ensambladores](http://www.metagenomics.wiki/tools/assembly)
+### [Anotación](http://www.metagenomics.wiki/tools/annotation)
+
 ## PROCEDIMIENTO
 - #### ANALISIS DE CALIDAD DE SECUENCIAS
 - #### TRIMMING DE SECUENCIAS
