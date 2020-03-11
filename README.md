@@ -34,11 +34,7 @@ REQUERIMIENTOS (WINDOWS)
 * ### Activar el entorno con los programas para el ensamblaje
 
 ```
-    $ ssh -p 3030 -l curso■ 148.206.50.100
-    
-    $ curso.2020$%
-    
-    $ conda activate genome
+
 ```
 
 ## 2. Descomprimir todos los archivos .gz
