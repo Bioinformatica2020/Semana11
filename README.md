@@ -197,3 +197,9 @@ $ tar xvzf ./trimm/trim_galore.tar.gz
 ```
 
 * ### Visualizar estos archivos con el programa [IGV](https://software.broadinstitute.org/software/igv/AlignmentData)
+
+
+
+---
+
+# python -mpip install biopython
