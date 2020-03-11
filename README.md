@@ -157,7 +157,9 @@ $ tar xvzf ./trimm/trim_galore.tar.gz
 
 ## 11. Contar el # de contigs obtenidos
 
-grep ">" assem29/contigs.fa | wc -l
+```
+   $ grep ">" assem29/contigs.fa | wc -l
+```
 
 ## 12.  Anotación estructural de Genoma usando [PROKKA](http://www.vicbioinformatics.com/software.prokka.shtml)
 ## creamos un nuevo directorio por cada prueba de k-mers
