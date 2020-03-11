@@ -111,6 +111,8 @@ REQUERIMIENTOS (WINDOWS)
 * ### Primero descargar y descomprimir el programa [TrimGalore](https://github.com/FelixKrueger/TrimGalore/blob/master/Docs/Trim_Galore_User_Guide.md)
 
 ```
+$ mkdir trimm
+
 $ curl -fsSL https://github.com/FelixKrueger/TrimGalore/archive/0.6.5.tar.gz -o ./trimm/trim_galore.tar.gz
 
 $ tar xvzf ./trimm/trim_galore.tar.gz
